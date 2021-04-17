@@ -136,3 +136,4 @@ dmypy.json
 *.swn
 *.vim
 *.orig
+node_modules
